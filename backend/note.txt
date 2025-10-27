@@ -1,0 +1,4 @@
+npm init
+npm install express
+npx tsc --init 
+npm i -D typescript @types/node @types/express
